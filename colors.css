@@ -1,0 +1,149 @@
+:root {
+    /* Colors pallete */
+    --text: #151b23;
+    --background: #f5f5f7;
+    --primary: #0071e3;
+    --secondary: #00aaff;
+    --accent: #d1d4db;
+    --white: #ffffff;
+  
+    /* Light mode */
+    --light-text: #151b23;
+    --light-background: #f5f5f7;
+    --light-primary: #0071e3;
+    --light-secondary: #00aaff;
+    --light-accent: #d1d4db;
+    --light-white: #ffffff;
+  
+    /* Dark mode */
+    --dark-text: #ffffff;
+    --dark-background: #151b23;
+    --dark-primary: #0071e3;
+    --dark-secondary: #00aaff;
+    --dark-accent: #d1d4db;
+    --dark-black: #000000;
+  
+    /* Shades */
+  
+    /* Primary color */
+    --color-primary-100: #caeefd;
+    --color-primary-200: #97d8fc;
+    --color-primary-300: #62bbf6;
+    --color-primary-400: #3b9dee;
+    --color-primary-500: #0071e3;
+    --color-primary-600: #0057c3;
+    --color-primary-700: #0041a3;
+    --color-primary-800: #002d83;
+    --color-primary-900: #00206c;
+  
+    /* Secondary color */
+    --color-secondary-100: #ccfbff;
+    --color-secondary-200: #99f0ff;
+    --color-secondary-300: #66dfff;
+    --color-secondary-400: #3fcbff;
+    --color-secondary-500: #00aaff;
+    --color-secondary-600: #0084db;
+    --color-secondary-700: #0062b7;
+    --color-secondary-800: #004693;
+    --color-secondary-900: #00327a;
+  
+    --seondary-contrast-text: #360e64;
+  
+    /* Success color */
+    --color-success-100: #eafcd5;
+    --color-success-200: #d0f9ad;
+    --color-success-300: #abed81;
+    --color-success-400: #87dc5e;
+    --color-success-500: #55c62f;
+    --color-success-600: #3aaa22;
+    --color-success-700: #248e17;
+    --color-success-800: #12720e;
+    --color-success-900: #095f0b;
+  
+    /* Info color */
+    --color-info-100: #ccfefe;
+    --color-info-200: #9af6fe;
+    --color-info-300: #68e8fe;
+    --color-info-400: #43d5fd;
+    --color-info-500: #05b6fc;
+    --color-info-600: #038dd8;
+    --color-info-700: #026ab5;
+    --color-info-800: #014b92;
+    --color-info-900: #003678;
+  
+    /* Warning color */
+    --color-warning-100: #fdf1cb;
+    --color-warning-200: #fce097;
+    --color-warning-300: #f8c863;
+    --color-warning-400: #f2b03c;
+    --color-warning-500: #ea8c00;
+    --color-warning-600: #c97000;
+    --color-warning-700: #a85700;
+    --color-warning-800: #874000;
+    --color-warning-900: #703000;
+  
+    /* Danger color */
+    --color-danger-100: #fee5d4;
+    --color-danger-200: #fec4aa;
+    --color-danger-300: #fd9b80;
+    --color-danger-400: #fb7560;
+    --color-danger-500: #f9372c;
+    --color-danger-600: #d62025;
+    --color-danger-700: #b31628;
+    --color-danger-800: #900e27;
+    --color-danger-900: #770827;
+  
+    /* Grey color shade */
+    --color-grey-0: #ffffff;
+    --color-grey-100: #f9fafb;
+    --color-grey-200: #f4f6f8;
+    --color-grey-300: #dfe3e8;
+    --color-grey-400: #c4cdd5;
+    --color-grey-500: #919eab;
+    --color-grey-600: #637381;
+    --color-grey-700: #454f5b;
+    --color-grey-800: #212b36;
+    --color-grey-900: #161c24;
+  }
+  
+  /* Gredient */
+  .primary-vs-secondary {
+    background: rgb(0, 206, 246);
+    background: -moz-linear-gradient(
+      90deg,
+      rgba(0, 206, 246, 1) 0%,
+      rgba(0, 130, 245, 1) 100%
+    );
+    background: -webkit-linear-gradient(
+      90deg,
+      rgba(0, 206, 246, 1) 0%,
+      rgba(0, 130, 245, 1) 100%
+    );
+    background: linear-gradient(
+      90deg,
+      rgba(0, 206, 246, 1) 0%,
+      rgba(0, 130, 245, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00cef6",endColorstr="#0082f5",GradientType=1);
+  }
+  
+  .primary-vs-0-opacity {
+    background: rgb(0, 206, 246);
+    background: -moz-linear-gradient(
+      90deg,
+      rgba(0, 206, 246, 0) 0%,
+      rgba(0, 130, 245, 1) 100%
+    );
+    background: -webkit-linear-gradient(
+      90deg,
+      rgba(0, 206, 246, 0) 0%,
+      rgba(0, 130, 245, 1) 100%
+    );
+    background: linear-gradient(
+      90deg,
+      rgba(0, 206, 246, 0) 0%,
+      rgba(0, 130, 245, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00cef6",endColorstr="#0082f5",GradientType=1);
+  }
+  
