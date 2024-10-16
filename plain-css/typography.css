@@ -1,0 +1,118 @@
+/* Headings */
+h1 {
+    font-size: 64px;
+    line-height: 1.25;
+    font-weight: 800;
+  }
+  
+  h2 {
+    font-size: 48px;
+    line-height: 1.33;
+    font-weight: 800;
+  }
+  
+  h3 {
+    font-size: 32px;
+    line-height: 1.5;
+    font-weight: 700;
+  }
+  
+  h4 {
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: 700;
+  }
+  
+  h5 {
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 700;
+  }
+  
+  h6 {
+    font-size: 18px;
+    line-height: 1.56;
+    font-weight: 600;
+  }
+  
+  /* Subtitles */
+  .subtitle1 {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 600;
+  }
+  
+  .subtitle2 {
+    font-size: 14px;
+    line-height: 1.57;
+    font-weight: 600;
+  }
+  
+  /* Body Text */
+  .body1 {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+  
+  .body2 {
+    font-size: 14px;
+    line-height: 1.57;
+    font-weight: 400;
+  }
+  
+  /* Caption */
+  .caption {
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+  
+  /* Overline */
+  .overline {
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 700;
+  }
+  
+  /* Button */
+  button {
+    font-size: 14px;
+    line-height: 1.71;
+    font-weight: 700;
+  }
+  
+  /* Text Colors */
+  .text-primary {
+    color: #000; /* Adjust the color as needed */
+  }
+  
+  .text-secondary {
+    color: #6b6b6b; /* Adjust the color as needed */
+  }
+  
+  .text-disabled {
+    color: #a8a8a8; /* Adjust the color as needed */
+  }
+  
+  /* Colors for Contextual Text */
+  .text-primary-color {
+    color: #007bff; /* Primary color */
+  }
+  
+  .text-secondary-color {
+    color: #6c757d; /* Secondary color */
+  }
+  
+  .text-info {
+    color: #17a2b8; /* Info color */
+  }
+  
+  .text-warning {
+    color: #ffc107; /* Warning color */
+  }
+  
+  .text-error {
+    color: #dc3545; /* Error color */
+  }
+  
