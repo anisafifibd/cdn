@@ -1,0 +1,176 @@
+/* Helvetica Font-Faces */
+@font-face {
+    font-family: 'Helvetica';
+    src: url('https://cdn.afifi.pro/fonts/Helvetica.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica-Bold';
+    src: url('https://cdn.afifi.pro/fonts/Helvetica-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica-Light';
+    src: url('https://cdn.afifi.pro/fonts/helvetica-light-587ebe5a59211.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica-Oblique';
+    src: url('https://cdn.afifi.pro/fonts/Helvetica-Oblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Helvetica-BoldOblique';
+    src: url('https://cdn.afifi.pro/fonts/Helvetica-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueItalic';
+    src: url('https://cdn.afifi.pro/fonts/HelveticaNeueItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Kalpurush Font-Faces */
+@font-face {
+    font-family: 'Kalpurush';
+    src: url('https://cdn.afifi.pro/fonts/Kalpurush%20Regular%20Mod.woff2') format('woff2'),
+         url('https://cdn.afifi.pro/fonts/Kalpurush%20Regular%20Mod.woff') format('woff'),
+         url('https://cdn.afifi.pro/fonts/Kalpurush%20Regular%20Mod.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* LiZahirRayhanUnicode Font-Faces */
+@font-face {
+    font-family: 'LiZahirRayhanUnicode-Regular';
+    src: url('https://cdn.afifi.pro/fonts/LiZahirRayhanUnicode-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LiZahirRayhanUnicode-Italic';
+    src: url('https://cdn.afifi.pro/fonts/LiZahirRayhanUnicode-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Poppins Font-Faces */
+@font-face {
+    font-family: 'Poppins';
+    src: url('https://cdn.afifi.pro/fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('https://cdn.afifi.pro/fonts/Poppins-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Black';
+    src: url('https://cdn.afifi.pro/fonts/Poppins-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraBold';
+    src: url('https://cdn.afifi.pro/fonts/Poppins-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('https://cdn.afifi.pro/fonts/Poppins-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Italic';
+    src: url('https://cdn.afifi.pro/fonts/Poppins-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* PublicSans Font-Faces */
+@font-face {
+    font-family: 'PublicSans';
+    src: url('https://cdn.afifi.pro/fonts/PublicSans-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PublicSans-Black';
+    src: url('https://cdn.afifi.pro/fonts/PublicSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Roboto Font-Faces */
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://cdn.afifi.pro/fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('https://cdn.afifi.pro/fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('https://cdn.afifi.pro/fonts/Roboto-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('https://cdn.afifi.pro/fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* RobotoCondensed Font-Faces */
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url('https://cdn.afifi.pro/fonts/RobotoCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Bold';
+    src: url('https://cdn.afifi.pro/fonts/RobotoCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Light';
+    src: url('https://cdn.afifi.pro/fonts/RobotoCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
