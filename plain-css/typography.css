@@ -1,87 +1,87 @@
 /* Headings */
 h1 {
-    font-size: 64px;
+    font-size: 4rem;
     line-height: 1.25;
     font-weight: 800;
-  }
-  
-  h2 {
-    font-size: 48px;
+}
+
+h2 {
+    font-size: 3rem;
     line-height: 1.33;
     font-weight: 800;
-  }
-  
-  h3 {
-    font-size: 32px;
+}
+
+h3 {
+    font-size: 2rem;
     line-height: 1.5;
     font-weight: 700;
-  }
-  
-  h4 {
-    font-size: 24px;
+}
+
+h4 {
+    font-size: 1.5rem;
     line-height: 1.5;
     font-weight: 700;
-  }
-  
-  h5 {
-    font-size: 20px;
+}
+
+h5 {
+    font-size: 1.25rem;
     line-height: 1.5;
     font-weight: 700;
-  }
-  
-  h6 {
-    font-size: 18px;
+}
+
+h6 {
+    font-size: 1.125rem;
     line-height: 1.56;
     font-weight: 600;
-  }
-  
-  /* Subtitles */
-  .subtitle1 {
-    font-size: 16px;
+}
+
+/* Subtitles */
+.subtitle1 {
+    font-size: 1rem;
     line-height: 1.5;
     font-weight: 600;
-  }
-  
-  .subtitle2 {
-    font-size: 14px;
+}
+
+.subtitle2 {
+    font-size: 0.875rem;
     line-height: 1.57;
     font-weight: 600;
-  }
-  
-  /* Body Text */
-  .body1 {
-    font-size: 16px;
+}
+
+/* Body Text */
+.body1 {
+    font-size: 1rem;
     line-height: 1.5;
     font-weight: 400;
-  }
-  
-  .body2 {
-    font-size: 14px;
+}
+
+.body2 {
+    font-size: 0.875rem;
     line-height: 1.57;
     font-weight: 400;
-  }
-  
-  /* Caption */
-  .caption {
-    font-size: 12px;
+}
+
+/* Caption */
+.caption {
+    font-size: 0.75rem;
     line-height: 1.5;
     font-weight: 400;
-  }
-  
-  /* Overline */
-  .overline {
-    font-size: 12px;
+}
+
+/* Overline */
+.overline {
+    font-size: 0.75rem;
     line-height: 1.5;
     font-weight: 700;
-  }
-  
-  /* Button */
-  button {
-    font-size: 14px;
+}
+
+/* Button */
+button {
+    font-size: 0.875rem;
     line-height: 1.71;
     font-weight: 700;
-  }
-  
+}
+
   /* Text Colors */
   .text-primary {
     color: #000; /* Adjust the color as needed */
