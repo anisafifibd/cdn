@@ -51,6 +51,17 @@
     font-style: normal;
 }
 
+/* Kalpurush Font-Faces */
+/* TODO: add font here */
+@font-face {
+    font-family: 'Kalpurush';
+    src: url('https://cdn.jsdelivr.net/gh/anisafifibd/cdn@main/fonts/Kalpurush%20Regular%20Mod.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/anisafifibd/cdn@main/fonts/Kalpurush%20Regular%20Mod.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/anisafifibd/cdn@main/fonts/Kalpurush%20Regular%20Mod.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* LiZahirRayhanUnicode Font-Faces */
 @font-face {
     font-family: 'LiZahirRayhanUnicode-Regular';
